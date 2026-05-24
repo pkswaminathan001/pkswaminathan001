@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm PR Swaminathan
 
-<!--
-**pkswaminathan001/pkswaminathan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Workflow Specialist | Prompt Engineer | Ex-HCL Technologies**
 
-Here are some ideas to get you started:
+📍 Chennai, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prswaminathan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:PRSwaminathan001@gmail.com)
+
+---
+
+## 🚀 What I Do
+
+I build AI workflows that reduce manual work. At HCL Technologies (USAA Insurance):
+
+- ⚡ **40% faster** claims processing
+- 🎯 **99.2% accuracy** across 6,000+ transactions
+- 🔧 **GPT-4, Claude, Gemini** in production
+
+---
+
+## 📌 Featured Projects (Coming Soon)
+
+| Project | Status | What it does |
+|---------|--------|---------------|
+| AI Email Campaign Generator | 🔨 Building | AI-generated email marketing copy |
+| AI Social Ad Creator | 📅 Planned | Facebook ad copy + image prompts |
+| Marketing Automation Zap | 📅 Planned | Google Form → AI → Email |
+
+---
+
+## 🛠️ Tech I Use
+
+`Prompt Engineering` `LLM Evaluation` `GPT-4` `Claude API` `Excel` `Zapier` `HubSpot`
+
+---
+
+## 📫 Let's Connect
+
+I'm seeking **AI Marketing Automation** or **Marketing Operations** roles in Chennai.
+
+📧 PRSwaminathan001@gmail.com
