@@ -1,6 +1,6 @@
 # 👋 Hi, I'm PR Swaminathan
 
-**AI Workflow Specialist | Prompt Engineer | Ex-HCL Technologies**
+**AI Workflow Specialist | Prompt Engineer | HCL Technologies**
 
 📍 Chennai, India
 
