@@ -50,3 +50,4 @@ I'm seeking **Business Analyst** or **AI Operations** roles in Luxembourg, Nethe
 📧 prswaminathan001@gmail.com
 🔗 [linkedin.com/in/prswaminathan](https://linkedin.com/in/prswaminathan)
 🌐 [Portfolio](https://pkswaminathan001.github.io/tras-ai/)
+🎯 [12 Free AI Tools](https://pkswaminathan001.github.io/tras-ai/#ai-programs)
