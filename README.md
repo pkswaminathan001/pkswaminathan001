@@ -1,42 +1,51 @@
 # 👋 Hi, I'm PR Swaminathan
 
-**AI Workflow Specialist | Prompt Engineer | HCL Technologies**
+**Business Analyst | Insurance Operations | Guidewire**
 
-📍 Chennai, India
+📍 Chennai, India → Open to EU Relocation (Luxembourg / Netherlands / Ireland)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prswaminathan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:PRSwaminathan001@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?logo=githubpages)](https://pkswaminathan001.github.io/tras-ai/)
 
 ---
 
 ## 🚀 What I Do
 
-I build AI workflows that reduce manual work. At HCL Technologies (USAA Insurance):
+Business Analyst with experience supporting insurance operations at HCL Technologies (USAA Insurance):
 
 - ⚡ **40% faster** claims processing
 - 🎯 **99.2% accuracy** across 6,000+ transactions
-- 🔧 **GPT-4, Claude, Gemini** in production
+- 🔧 **Guidewire**, **GPT-4**, **Claude**, **Gemini** in production
 
 ---
 
-## 📌 Featured Projects (Coming Soon)
+## 📌 Featured Projects
 
-| Project | Status | What it does |
-|---------|--------|---------------|
-| AI Email Campaign Generator | 🔨 Building | AI-generated email marketing copy |
-| AI Social Ad Creator | 📅 Planned | Facebook ad copy + image prompts |
-| Marketing Automation Zap | 📅 Planned | Google Form → AI → Email |
+| Project | Live Demo | Tech Stack |
+|---------|-----------|-------------|
+| 🎯 **TRAS AI** | [Try Tool](https://pkswaminathan001.github.io/tras-ai/tras.html) | Gemini API, HTML/CSS/JS |
+| 🇪🇺 **EU Job Hunter AI** | [GitHub Repo](https://github.com/pkswaminathan001/Luxembourg) | GitHub Actions, Python, Qwen-Max |
+| 📧 **AI Email Generator** | [Live Demo](https://pkswaminathan001.github.io/ai-email-campaign-generator) | Hugging Face AI |
+| 📱 **AI Ad Creator** | [Live Demo](https://pkswaminathan001.github.io/ai-social-ad-creator) | AI Prompts |
 
 ---
 
 ## 🛠️ Tech I Use
 
-`Prompt Engineering` `LLM Evaluation` `GPT-4` `Claude API` `Excel` `Zapier` `HubSpot`
+`Business Analysis` `Insurance Operations` `Guidewire` `Prompt Engineering` `LLM Evaluation` `GPT-4` `Claude API` `Gemini` `Excel` `GitHub Actions` `Python`
+
+---
+
+## 🇪🇺 Visa Status
+
+✅ Eligible for **EU Blue Card (Luxembourg)** / **HSM (Netherlands)** / **Critical Skills (Ireland)**
 
 ---
 
 ## 📫 Let's Connect
 
-I'm seeking **AI Marketing Automation** or **Marketing Operations** roles in Chennai.
+I'm seeking **Business Analyst** or **AI Operations** roles in Luxembourg, Netherlands, or Ireland.
 
 📧 PRSwaminathan001@gmail.com
+🔗 [linkedin.com/in/prswaminathan](https://linkedin.com/in/prswaminathan)
