@@ -5,8 +5,9 @@
 📍 Chennai, India → Open to EU Relocation (Luxembourg / Netherlands / Ireland)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prswaminathan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:PRSwaminathan001@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prswaminathan001@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?logo=githubpages)](https://pkswaminathan001.github.io/tras-ai/)
+[![AI Tools](https://img.shields.io/badge/12_AI_Tools-Free-green?logo=openai)](https://pkswaminathan001.github.io/tras-ai/#ai-programs)
 
 ---
 
@@ -26,8 +27,7 @@ Business Analyst with experience supporting insurance operations at HCL Technolo
 |---------|-----------|-------------|
 | 🎯 **TRAS AI** | [Try Tool](https://pkswaminathan001.github.io/tras-ai/tras.html) | Gemini API, HTML/CSS/JS |
 | 🇪🇺 **EU Job Hunter AI** | [GitHub Repo](https://github.com/pkswaminathan001/Luxembourg) | GitHub Actions, Python, Qwen-Max |
-| 📧 **AI Email Generator** | [Live Demo](https://pkswaminathan001.github.io/ai-email-campaign-generator) | Hugging Face AI |
-| 📱 **AI Ad Creator** | [Live Demo](https://pkswaminathan001.github.io/ai-social-ad-creator) | AI Prompts |
+| 🎯 **My Full Portfolio** | [Visit Site](https://pkswaminathan001.github.io/tras-ai/) | 12+ Free AI Tools |
 
 ---
 
@@ -47,5 +47,6 @@ Business Analyst with experience supporting insurance operations at HCL Technolo
 
 I'm seeking **Business Analyst** or **AI Operations** roles in Luxembourg, Netherlands, or Ireland.
 
-📧 PRSwaminathan001@gmail.com
+📧 prswaminathan001@gmail.com
 🔗 [linkedin.com/in/prswaminathan](https://linkedin.com/in/prswaminathan)
+🌐 [Portfolio](https://pkswaminathan001.github.io/tras-ai/)
